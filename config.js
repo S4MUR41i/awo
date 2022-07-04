@@ -50,7 +50,7 @@ global.location = "Indonesia, Jateng, Kudus" //ur location
 //bot bombdy
 global.botname = "Amin Bot" //ur bot name
 global.websitex = "https://instagram.com/saya_asroriamim" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/VMHtatkC.mp4' } //gif and video menu
+global.vidmenu = { url: 'https://telegra.ph/file/c17151f5d79f3891cf355.mp4' } //gif and video menu
 global.packname = ""
 global.author = "Asrori Amin"
 global.themeemoji = "🕺"
